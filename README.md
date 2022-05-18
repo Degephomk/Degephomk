@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Degephomk
 - 👀 I’m interested in codding
-- 🌱 MERN full stack and react native developer
+- 🌱 MERN and MEAN full stack and react native developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me degeiatb.k@gmail.com
 
