@@ -59,7 +59,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Degephomk)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)
 [![Email](https://img.shields.io/badge/Email-degaitb.k@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:degaitb.k@gmail.com)
-## 🌐 Portfolio
+[![Degephomk's Portfolio](https://img.shields.io/badge/Degephomk's_Portfolio-Visit_Here-5e60ce?style=for-the-badge)](https://degefombkahsay.vercel.app/)
 
-🚀 Check out my personal portfolio site:  
-🔗 [degefombkahsay.vercel.app](https://degefombkahsay.vercel.app/)
+
+
