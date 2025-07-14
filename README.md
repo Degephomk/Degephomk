@@ -1,8 +1,8 @@
 ### 👨‍🎓 About Me
 
-🎓 I’m currently pursuing a **Master’s in Artificial Intelligence & Computer Science** at *Clabaria University*, driven by a passion for **robotics**, **intelligent agents**, and **human-centered AI**.
+🎓 I’m currently pursuing a **Master’s in Artificial Intelligence & Computer Science** at **University of Calabria**, driven by a passion for **robotics**, **intelligent agents**, and **human-centered AI**.
 
-🤖 My ongoing work includes developing solutions with **NAO Robots** to assist children with **Autism Spectrum Disorder (ASD)** — blending empathy with engineering.
+🤖 My ongoing work includes developing solutions with **NAO Robots** and **Pepper Robots** to assist children with **Autism Spectrum Disorder (ASD)** — blending empathy with engineering.
 
 🧠 I’m deeply interested in:
 - **LLMs & Multimodal AI**
